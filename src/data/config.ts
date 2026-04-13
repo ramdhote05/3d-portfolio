@@ -28,6 +28,7 @@ const config = {
   author: "Ram Dhote",
   email: "dhoteram68@gmail.com",
   site: "https://linktr.ee/dhoteram05",
+  ogImg: "/assets/logo-dark.svg",
 
   // for github stars button
   githubUsername: "ramdhote05",
